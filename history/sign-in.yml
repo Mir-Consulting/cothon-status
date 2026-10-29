@@ -1,7 +1,7 @@
 url: https://api.cothon.ca/auth/v1/health
-status: down
-code: 401
-responseTime: 48
-lastUpdated: 2026-10-29T16:50:07.010Z
+status: up
+code: 200
+responseTime: 372
+lastUpdated: 2026-10-29T16:57:36.178Z
 startTime: 2026-10-29T16:49:54.827Z
 generator: Upptime <https://github.com/upptime/upptime>
