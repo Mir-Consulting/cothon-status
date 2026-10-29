@@ -58,19 +58,19 @@
     "url": "https://api.cothon.ca/auth/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.cothon.ca.ico",
     "slug": "sign-in",
-    "status": "down",
-    "uptime": "50.28%",
-    "uptimeDay": "50.28%",
-    "uptimeWeek": "50.28%",
-    "uptimeMonth": "50.28%",
-    "uptimeYear": "50.28%",
-    "time": 48,
-    "timeDay": 48,
-    "timeWeek": 48,
-    "timeMonth": 48,
-    "timeYear": 48,
+    "status": "up",
+    "uptime": "3.66%",
+    "uptimeDay": "3.66%",
+    "uptimeWeek": "3.66%",
+    "uptimeMonth": "3.66%",
+    "uptimeYear": "3.66%",
+    "time": 210,
+    "timeDay": 210,
+    "timeWeek": 210,
+    "timeMonth": 210,
+    "timeYear": 210,
     "dailyMinutesDown": {
-      "2026-10-29": 0
+      "2026-10-29": 8
     }
   }
 ]
