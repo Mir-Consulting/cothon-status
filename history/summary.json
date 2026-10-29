@@ -1,1 +1,76 @@
-[]
+[
+  {
+    "name": "Web app",
+    "url": "https://www.cothon.ca",
+    "icon": "https://icons.duckduckgo.com/ip3/www.cothon.ca.ico",
+    "slug": "web-app",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 506,
+    "timeDay": 506,
+    "timeWeek": 506,
+    "timeMonth": 506,
+    "timeYear": 506,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "API",
+    "url": "https://projectpm-production.up.railway.app/readyz",
+    "icon": "https://icons.duckduckgo.com/ip3/projectpm-production.up.railway.app.ico",
+    "slug": "api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 354,
+    "timeDay": 354,
+    "timeWeek": 354,
+    "timeMonth": 354,
+    "timeYear": 354,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Background processing",
+    "url": "https://projectpm-production.up.railway.app/readyz/background",
+    "icon": "https://icons.duckduckgo.com/ip3/projectpm-production.up.railway.app.ico",
+    "slug": "background-processing",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 28,
+    "timeDay": 28,
+    "timeWeek": 28,
+    "timeMonth": 28,
+    "timeYear": 28,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Sign-in",
+    "url": "https://api.cothon.ca/auth/v1/health",
+    "icon": "https://icons.duckduckgo.com/ip3/api.cothon.ca.ico",
+    "slug": "sign-in",
+    "status": "down",
+    "uptime": "66.08%",
+    "uptimeDay": "66.08%",
+    "uptimeWeek": "66.08%",
+    "uptimeMonth": "66.08%",
+    "uptimeYear": "66.08%",
+    "time": 48,
+    "timeDay": 48,
+    "timeWeek": 48,
+    "timeMonth": 48,
+    "timeYear": 48,
+    "dailyMinutesDown": {
+      "2026-10-29": 0
+    }
+  }
+]
