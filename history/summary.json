@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 929,
-    "timeDay": 353,
-    "timeWeek": 1056,
-    "timeMonth": 929,
-    "timeYear": 929,
+    "time": 888,
+    "timeDay": 398,
+    "timeWeek": 1043,
+    "timeMonth": 888,
+    "timeYear": 888,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 394,
-    "timeDay": 290,
-    "timeWeek": 405,
-    "timeMonth": 394,
-    "timeYear": 394,
+    "time": 379,
+    "timeDay": 191,
+    "timeWeek": 403,
+    "timeMonth": 379,
+    "timeYear": 379,
     "dailyMinutesDown": {}
   },
   {
@@ -41,17 +41,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/projectpm-production.up.railway.app.ico",
     "slug": "background-processing",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 103,
-    "timeDay": 109,
-    "timeWeek": 94,
-    "timeMonth": 103,
-    "timeYear": 103,
-    "dailyMinutesDown": {}
+    "uptime": "96.51%",
+    "uptimeDay": "59.73%",
+    "uptimeWeek": "94.25%",
+    "uptimeMonth": "96.51%",
+    "uptimeYear": "96.51%",
+    "time": 98,
+    "timeDay": 108,
+    "timeWeek": 95,
+    "timeMonth": 98,
+    "timeYear": 98,
+    "dailyMinutesDown": {
+      "2026-11-10": 362,
+      "2026-11-09": 218
+    }
   },
   {
     "name": "Sign-in",
@@ -64,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 385,
-    "timeDay": 141,
-    "timeWeek": 389,
-    "timeMonth": 385,
-    "timeYear": 385,
+    "time": 374,
+    "timeDay": 234,
+    "timeWeek": 391,
+    "timeMonth": 374,
+    "timeYear": 374,
     "dailyMinutesDown": {}
   }
 ]
