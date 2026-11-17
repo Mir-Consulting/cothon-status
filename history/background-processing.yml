@@ -1,7 +1,7 @@
 url: https://projectpm-production.up.railway.app/readyz/background
-status: down
-code: 503
-responseTime: 182
-lastUpdated: 2026-11-17T04:57:17.723Z
+status: up
+code: 200
+responseTime: 141
+lastUpdated: 2026-11-17T19:25:57.862Z
 startTime: 2026-10-29T16:49:54.510Z
 generator: Upptime <https://github.com/upptime/upptime>
